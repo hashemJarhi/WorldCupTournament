@@ -1,7 +1,7 @@
 # WorldCupTournament
 World Cup tournament
 
-at this tournament support the following functions:
+at this tournament support the following functions using AVL_TREE structure:
 
 K represents teams number
 N represents players number
